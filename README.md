@@ -18,3 +18,11 @@ I created this project to explore how mathematical concepts from Applied Mathema
 
 ## Technologies Used
 - Python
+
+## Example Output
+Enter velocity (m/s): 20
+Enter angle (degrees): 45
+
+Time in air: 2.89 seconds
+Range: 40.82 metres
+Maximum height: 10.20 metres
