@@ -1,5 +1,16 @@
 # Projectile Motion Simulator
 
+I'm a student developer intrested in Engineering and I'm currently building projects to explore Python. 
+
+# The Problem
+Calculating the motion of a projectile, assuming neither air resitance nor drag affects motion of the projectile.
+
+# The Math
+In this project I used kinematic eqautions such as the UVAST equations and I derived the flight path of the projectile to ensure accuracy of direction.
+
+# The Solution
+I chose Python as its a top choice among developers when building projectile simulators. This is due to its in-built libraries such as mathplotlib which allowed me to plot trajectories without having to code physics from scratch.
+
 This project models projectile motion using Python.
 
 ## Description
